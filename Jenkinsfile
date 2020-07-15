@@ -6,14 +6,5 @@ pipeline {
                 echo 'hola'  
             } 
         } 
-        stage('Probar') {  
-            steps { 
-                //  
-            } 
-        } 
-        stage('Desplegar') {  
-            steps { 
-                //  
-            } 
         } 
     }
